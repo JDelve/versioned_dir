@@ -1,4 +1,4 @@
-# Pip Pip and Tally-Ho My Good Chum GitHub
+# Pip Pip and Tally-Ho My Dear GitHub
 
 This is a README.md file that will be used to describe this 
 repository on GitHub.
