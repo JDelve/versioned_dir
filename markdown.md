@@ -13,6 +13,10 @@ You knew this was coming.
 from python import soul.
 ```
 
+Broken link.
+Weep for the link,
+For it is broken.
+
 [More 00's memes.](www.leekspin.com)
 
 
