@@ -1,3 +1,7 @@
+# Versioned Directory
+
+[ ![Travis Build Status](https://travis-ci.org/JDelve/versioned_dir.svg?branch=master) ](https://travis-ci.org/JDelve/versioned_dir)
+
 # Pip Pip and Tally-Ho My Dear GitHub
 
 This is a README.md file that will be used to describe this 
