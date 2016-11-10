@@ -9,3 +9,7 @@ of README.md in the cloned repository.
 Oh no it isn't. This is an extra line of text added to the 
 README.md in the original repository after pulling from 
 the clone.
+
+BUT WAIT! There's more. This is an additional paragraph 
+marking, and entirely encompassing, the new features 
+included in the development of the new-feature branch.
