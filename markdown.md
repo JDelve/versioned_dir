@@ -13,6 +13,13 @@ You knew this was coming.
 from python import soul.
 ```
 
+<<<<<<< HEAD
+=======
+Broken link.
+Weep for the link,
+For it is broken.
+
+>>>>>>> 4b56df5c9f923e0337884960d19c6f8de0f7f0f5
 [More 2000's memes.](www.leekspin.com)
 
 
