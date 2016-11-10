@@ -13,3 +13,6 @@ the clone.
 BUT WAIT! There's more. This is an additional paragraph 
 marking, and entirely encompassing, the new features 
 included in the development of the new-feature branch.
+
+This paragraph tests whether the Travis CI script runs 
+as expected.
